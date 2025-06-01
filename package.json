@@ -1,0 +1,26 @@
+{
+  "name": "kune-neechan-blog",
+  "version": "1.0.0",
+  "description": "it is the first my made to blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KT265/new.git"
+  },
+  "keywords": [
+    "kimtai0333132230"
+  ],
+  "author": "Kune-neechan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KT265/new/issues"
+  },
+  "homepage": "https://github.com/KT265/new#readme",
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
